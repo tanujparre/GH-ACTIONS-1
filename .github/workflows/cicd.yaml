@@ -5,5 +5,5 @@ jobs:
   b16_first_job:
     runs-on: ubuntu-latest
     steps:
-      - name: message
-        run: "Welcome to GitHub Actions"
+     - name: message
+       run: "Welcome to GitHub Actions"
